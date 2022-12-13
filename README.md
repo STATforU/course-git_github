@@ -31,3 +31,11 @@ Les quatre séances se dérouleront comme suit :
 
 - Cas pratique 3 : Collaboration sur un projet 
 - Gestion des branches et pull requests
+
+## Ressources supplémentaires
+
+De nombreuses ressources sont disponibles afin de se former sur Git et sur GitHub. Voici quelques liens utiles :
+
+- [Gérez du code avec Git et GitHub](https://openclassrooms.com/fr/courses/7162856-gerez-du-code-avec-git-et-github) par OpenClassrooms : cours en français sur les bases de Git et GitHub
+- [Devenez un expert de Git et GitHub](https://openclassrooms.com/fr/courses/7688581-devenez-un-expert-de-git-et-github) par OpenClassrooms : cours en français sur les notions avancées de Git et GitHub
+- [ProGit: Everything you need to know about Git](https://git-scm.com/book/en/v2) : Livre en anglais et en français rassemblant toute la documentation de Git.

@@ -1,6 +1,6 @@
 # Introduction à Git et GitHub
 
-Cette formation rapide dans le cadre de STAT for U, prévue sur quatre fois 1h pendant l'heure du midi, vise à apprendre les rudiments de [Git](https://git-scm.com/) et de [GitHub](https://github.com/). 
+Cette formation rapide dans le cadre de STAT for U, prévue sur quatre fois 1h pendant l'heure du midi, vise à apprendre les rudiments de [Git](https://git-scm.com/) et de [GitHub](https://github.com/) axés sur l'analyse de données. 
 
 Dites STOP aux nombreuses versions d'un même fichier (comme un manuscrit de mémoire, de thèse ou d'un papier) sur votre ordinateur et découvrez Git. Ce logiciel permet de conserver un historique et des versions de tous les fichiers dans un projet. GitHub est pour sa part un réseau social dédié à héberger les projets réalisés avec Git. Il est idéal pour collaborer sur un projet.
 

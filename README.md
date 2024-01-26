@@ -12,6 +12,8 @@ Les quatre séances se donnent en présentiel de préférence pour ceux qui peuv
 - ajouter un dépôt local sur GitHub
 - réaliser les instructions de bases que sont  `commit` - `push` - `pull` - `clone`
 
+Pour t'inscrire à cette formation, envoie un mail à <guyliann.engels@umons.ac.be>
+
 ## Organisation des séances 
 
 Les quatre séances se dérouleront comme suit : 

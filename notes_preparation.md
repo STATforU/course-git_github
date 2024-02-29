@@ -152,7 +152,7 @@ git blame
 
 git log va permettre de voir les commits réalisé dans l'ordre inverse des réalisations (du plus récent au plus ancien)
 
-git reflog affiche toutes les actions réalisés. 
+git reflog affiche toutes les actions réalisées. 
 
 git blame permet d'examiner le contenu d'un fichier ligne par ligne
 
@@ -192,9 +192,19 @@ git reset --hard
 
 La version hard permet de revenir à l'état du commit désiré. C'est puissant, mais destructif. Tout ce qui a été fait après le commit sélectionné est perdu.
 
-
 La version mixed permet de revenir juste après le commit souhaité, sans supprimer vos modifications. Il faudra donc à nouveau les indexer puis les committer.
 
 La version soft permet de revenir en arrière et de voir ce que l'on a fait. Elle ne supprime pas de fichier, pas de commit,... Cette version me semble peu utile.
 
+## Installation de Git 
+
+[1.5 Démarrage rapide - Installation de Git](https://git-scm.com/book/fr/v2/D%C3%A9marrage-rapide-Installation-de-Git)
+
+## Interface pour la gestion de Git
+
+Il existe de très nombreuses interfaces graphiques afin d'utiliser Git plus facilement qu'à la ligne de commande. Je vous en propose 3 que j'ai personnellement testé les deux premiers proposés dans la liste.
+
+[Github desktop](https://desktop.github.com/)
+
+[Sourcetree](https://www.sourcetreeapp.com/)
 
